@@ -11,7 +11,7 @@ module.exports = [
   {
     name: 'strapi::public',
     config: {
-      path: '/data/public'
+      path: "/data/public"
     },
   },
 ];
